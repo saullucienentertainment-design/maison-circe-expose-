@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" fill="none">
+  <!-- Outer thin ring -->
+  <circle cx="40" cy="40" r="37" stroke="#b8975a" stroke-width="1.4" fill="none"/>
+  <!-- Inner ring -->
+  <circle cx="40" cy="40" r="28" stroke="#1a1a1c" stroke-width="1.1" fill="none"/>
+  <!-- Stylised C formed by arc + terminal nodes -->
+  <path d="M52 26 C42 18 26 20 22 34 C19 44 24 56 38 60 C46 62 54 58 58 52"
+        stroke="#1a1a1c" stroke-width="2.8" stroke-linecap="round" fill="none"/>
+  <!-- Circuit node at open end of C -->
+  <circle cx="55" cy="29" r="4" fill="#b8975a"/>
+  <line x1="55" y1="24.5" x2="55" y2="20" stroke="#b8975a" stroke-width="1.3" stroke-linecap="round"/>
+  <line x1="55" y1="33.5" x2="55" y2="38" stroke="#b8975a" stroke-width="1.3" stroke-linecap="round"/>
+  <line x1="50.5" y1="29" x2="46" y2="29" stroke="#b8975a" stroke-width="1.3" stroke-linecap="round"/>
+  <line x1="59.5" y1="29" x2="64" y2="29" stroke="#b8975a" stroke-width="1.3" stroke-linecap="round"/>
+  <!-- Small accent dot -->
+  <circle cx="40" cy="40" r="2.2" fill="#1a1a1c"/>
+</svg>
